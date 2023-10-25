@@ -1,0 +1,8 @@
+numpy==1.22
+matplotlib
+seaborn
+pandas
+scipy
+scikit-learn
+jupyter_client
+jupyter_core
